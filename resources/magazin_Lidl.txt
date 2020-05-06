@@ -1,0 +1,25 @@
+Inchis
+**********
+2020-04-03 2020-04-15
+iaurt:1.99
+cafea:4.20
+orez:5.00
+
+2020-04-10 2020-04-13
+zahar:2.50
+
+2020-04-10 2020-04-16
+iaurt:1.50
+paine:3.00
+zahar:2.78
+**********
+cafea:4.50
+ciocolata:5.00
+iaurt:2.60
+lapte:4.70
+paine:3.80
+paste:5.15
+zahar:2.90
+ulei:7.40
+orez:6.20
+portocale:10.00

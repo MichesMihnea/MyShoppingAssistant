@@ -1,0 +1,4 @@
+orez;portocale;ciocolata;banane;cirese
+Lidl:2
+Mega Image:1
+Auchan:3

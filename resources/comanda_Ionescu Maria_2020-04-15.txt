@@ -1,0 +1,3 @@
+iaurt;paine;cafea;zahar;orez
+Lidl:1
+Auchan:2

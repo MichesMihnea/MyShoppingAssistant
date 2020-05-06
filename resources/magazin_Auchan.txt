@@ -1,0 +1,28 @@
+Deschis
+**********
+2020-04-01 2020-04-10
+ciocolata:3.80
+zahar:2.80
+
+2020-04-15
+paine:1.70
+
+2020-04-15 2020-04-30
+banane:3.99
+iaurt:2.20
+ulei:5.49
+
+2020-04-26
+banane:3.49
+portocale:5.79
+**********
+ciocolata:5.00
+iaurt:2.60
+paine:3.80
+paste:5.15
+zahar:2.90
+ulei:7.40
+faina:2.20
+banane:4.35
+kiwi:3.00
+portocale:10.00

@@ -1,0 +1,18 @@
+Deschis
+**********
+2020-04-01 2020-04-15
+ciocolata:2.70
+
+2020-04-20 2020-04-30
+portocale:7.99
+**********
+cafea:4.50
+ciocolata:5.00
+iaurt:2.60
+lapte:4.70
+paine:3.80
+rosii:8.45
+castraveti:3.35
+avocado:9.99
+mere:4.99
+portocale:10.00

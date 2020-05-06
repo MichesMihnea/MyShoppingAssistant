@@ -1,0 +1,4 @@
+portocale;banane;paste;orez;inghetata
+Lidl:3
+Mega Image:2
+Auchan:1

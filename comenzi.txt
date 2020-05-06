@@ -1,0 +1,30 @@
+Customer Name: Florescu Ana
+Total sum: 19.44
+Product: paste Price: 5.15 Store: Auchan
+Product: inghetata can not be found in the stores.
+Product: banane Price: 3.49 Store: Auchan
+Product: orez Price: 5.0 Store: Lidl
+Product: portocale Price: 5.79 Store: Auchan
+
+
+
+Customer Name: Popescu Dan
+Total sum: 19.19
+Product: banane Price: 3.49 Store: Auchan
+Product: cirese can not be found in the stores.
+Product: orez Price: 5.0 Store: Lidl
+Product: ciocolata Price: 2.7 Store: Mega Image
+Product: portocale Price: 7.99 Store: Mega Image
+
+
+
+Customer Name: Ionescu Maria
+Total sum: 16.21
+Product: cafea Price: 4.2 Store: Lidl
+Product: paine Price: 3.0 Store: Lidl
+Product: zahar Price: 2.5 Store: Lidl
+Product: orez Price: 5.0 Store: Lidl
+Product: iaurt Price: 1.5 Store: Lidl
+
+
+
